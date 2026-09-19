@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    text-decoration:blue underline;
+    letter-spacing: 5px;
+    font-family: Book Antiqua;
+}
+p{
+   text-align: center;
+   font-weight:200;
+   text-decoration:yellowgreen line-through;
+   line-height: 2.5;
+   font-size: 50px;
+}
+h2{
+    font-weight:normal;
+    text-decoration: overline;
+    font-family: Arial;
+}

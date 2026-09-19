@@ -1,0 +1,33 @@
+h1{
+     color:#b342f5;
+    background-color: rgb(0,255,255);
+    text-decoration: underline;
+}
+p{
+    color:rgb(253, 184, 223);
+    background-color: #000ff0;
+}
+button{
+    color:blue;
+    background-color: #f5426c;
+}
+h2{
+    color:rgb(0,255,0);
+    text-decoration: line-through;
+
+}
+button{
+    background-color: blue;
+    color:rgb(255,0,255);
+    text-decoration: overline;
+}
+p{
+    background-color: rgb(0,255,0);
+    color:rgb(0,0,255);
+}
+h3{
+    color: #000ff0;
+}
+h1{
+    text-align:start;
+}
